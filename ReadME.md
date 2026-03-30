@@ -16,7 +16,7 @@ This repository contains my Digital Literacy Portfolio, completed as part of the
 
 | Field | Details |
 |-------|---------|
-| Name | PSN |
+| Name | Priyanshu Singh Naruka |
 | Registration No. | 25BAI10032 |
 | Degree | B.Tech CSE |
 | Branch | AI and ML |
